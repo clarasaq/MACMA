@@ -1,2 +1,3 @@
 # MACMA
-Proyecto SM
+Proyecto SM \n
+Hola chicos :D
